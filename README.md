@@ -1,4 +1,5 @@
-### Hi i'm Miguel 👋
+## Hola soy miguel👋
+*Tengo 19 años, y soy un apacionado de la programacion y toda la tecnologia en general, actualmente estoy en sexto semestre de ingenieria de sistemas, ademas de mi carrera me dedico a estudiar tecnologias para el desarrollo web, como lo son, HTML, CSS, JavaScript, React y git.*
 
 <!--
 **MiguelBecerra219/MiguelBecerra219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
